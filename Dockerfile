@@ -1,8 +1,8 @@
 FROM node:10-alpine
 
-RUN mkdir -p /server
+RUN mkdir -p /joke_app
 
-WORKDIR /server
+WORKDIR /joke_app
 
 COPY package.json package.json
 RUN npm install
