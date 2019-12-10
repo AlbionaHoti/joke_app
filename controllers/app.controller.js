@@ -1,9 +1,9 @@
 "use strict";
 import getInsult from "insults";
  
-const motivation = require('motivation');
-const quote = require('inspirational-quotes');
-var oneLinerJoke = require('one-liner-joke');
+import motivation from 'motivation';
+import quote from 'inspirational-quotes';
+import oneLinerJoke from 'one-liner-joke';
 
 module.exports = {
   insults(_req, res) {
