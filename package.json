@@ -16,10 +16,10 @@
     "@babel/node": "^7.7.4",
     "@babel/preset-env": "^7.7.6",
     "@babel/register": "^7.7.4",
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   },
   "dependencies": {
-    "body-parser": "^1.19.0",
+    "body-parser": "^1.20.1",
     "inspirational-quotes": "^1.0.8",
     "insults": "^0.1.3",
     "motivation": "^1.0.3",
