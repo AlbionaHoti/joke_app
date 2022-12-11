@@ -16,7 +16,7 @@
     "@babel/node": "^7.7.4",
     "@babel/preset-env": "^7.7.6",
     "@babel/register": "^7.7.4",
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   },
   "dependencies": {
     "body-parser": "^1.19.0",
